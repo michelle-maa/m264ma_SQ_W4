@@ -4,7 +4,7 @@
 
 To run the sketch locally, open `index.html` in Google Chrome using Live Server.
 
-The game loads into the first level immediately. PLayers must decide which choice leads them up the mountain by selecting one of the two buttons on each level. If the player chooses the right path, they win! 
+The game loads into the first level immediately. Players must decide which choice leads them up the mountain by selecting one of the two buttons on each level. If the player chooses the right path, they win! 
 
 **Opening the Chrome Console**
 
